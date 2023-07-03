@@ -1,3 +1,3 @@
-const api = "http://fikrinicuy.my.id/buku-backend/"
+const api = "https://fikrinicuy.my.id/buku-backend/"
 
 export default api
